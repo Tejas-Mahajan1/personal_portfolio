@@ -29,4 +29,4 @@ git clone https://github.com/Tejas-Mahajan1/personal_portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at :- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-mahajan2505).
+If you want to contact me you can reach me at :- [![LinkedIn]](https://linkedin.com/in/tejas-mahajan2505).
