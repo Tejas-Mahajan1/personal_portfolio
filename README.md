@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing vCard
 
-To install **vCard**, follow these steps:
+To install, follow these steps:
 
 Linux and macOS:
 
